@@ -1,0 +1,7 @@
+{
+  "name": "ANK|AXIE TOOL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
